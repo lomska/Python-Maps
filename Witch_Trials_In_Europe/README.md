@@ -1,6 +1,6 @@
 ## Witch Trials in Europe 1300-1850
 
-<img src="./eu_witch_trials" width="60%">
+<img src="./eu_witch_trials.png" width="60%">
 
 This interactive map was created for the [MapPromptMonday](https://github.com/MapPromptMonday/MapPromptMonday) challenge for May 15th, 2023 ("Proportional Symbols"). 
 
