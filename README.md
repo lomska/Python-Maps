@@ -2,10 +2,6 @@
 
 Repo for maps created in Python.
 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 ## Maps
 
 <img align="left" src="./Witch_Trials_In_Europe/eu_witch_trials.png" width="50%">
