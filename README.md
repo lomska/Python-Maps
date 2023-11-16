@@ -7,7 +7,7 @@ Repo for maps created in Python.
 <img align="left" src="./Witch_Trials_In_Europe/eu_witch_trials.png" width="50%">
 
 ### Witch Trials in Europe in 1300-1850 
-This interactive historical map shows the number of witch trials in Europe over 550 years. To create it, I compared the regions and localities collected by researchers based on historical sources with the modern regional division of Europe (NUTS-3). The map was submitted to the [MapPromptMonday](https://github.com/MapPromptMonday/MapPromptMonday) challenge ("Proportional Symbols" for May 15th, 2023). 
+This interactive historical map shows the number of witch trials in Europe over 550 years. To create it, I brought the regions and localities collected by researchers based on historical sources in line with the modern regional division of Europe (NUTS-3). The map was submitted to the [MapPromptMonday](https://github.com/MapPromptMonday/MapPromptMonday) challenge ("Proportional Symbols" for May 15th, 2023). 
 
 #### Datasources
 [Witch trials dataset](https://github.com/JakeRuss/witch-trials) | [Eurostat Coastlines](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/coastal) | [Eurostat NUTS](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts) | [Europe GeoJSON](https://github.com/leakyMirror/map-of-europe)
